@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_780e71fde724d82f44c0646903b1073688b942c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="56d1d4f04bf740a40c8f9e0a30ae5d7ce7dd54bd">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_95ba680490147ed947366f11e8483a11217e84c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_5bf1279daff2ca9af82cabd7b0b8a209f1b6065b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dafce975b41d30ce42fe89f53e31c5763b4f4555">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b58b57f52b6f65c5e576d42431248c89d1cd0838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_55aa2c4c7086a9a8b68d3fd936c93716d4b95b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_16181983de0415447679afcdb9e4bb724e0be285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e352ad05e3620d146a86e67942fec773e25a2248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_08627d0c3f1cebba034b99f90632ce989ab3f4e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Bartek\AndroidStudioProjects\Projekt\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_89e1b0df56ffec4d76346bbfbb371772371f0fff\classes.dex" />
+    </item>
+
+</items>
